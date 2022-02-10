@@ -1,0 +1,59 @@
+{
+  "All_Type": [
+    {
+      "type": "(Type-1)",
+      "type_name": "LAUNCHER",
+      "type_image": "https://freefiremobile-a.akamaihd.net/common/web_event/official/d1453d6f962fM79.png"
+    },
+    {
+      "type": "(Type-2)",
+      "type_name": "LMG",
+      "type_image": "https://freefiremobile-a.akamaihd.net/common/web_event/official/58e7c1a81842M249.png"
+    },
+    {
+      "type": "(Type-3)",
+      "type_name": "SMG",
+      "type_image": "https://freefiremobile-a.akamaihd.net/common/web_event/official/4573ca43055fVSS.png"
+    },
+    {
+      "type": "(Type-4)",
+      "type_name": "MELEE",
+      "type_image": "https://freefiremobile-a.akamaihd.net/common/web_event/official/7a501685488aPan.png"
+    },
+    {
+      "type": "(Type-5)",
+      "type_name": "AR",
+      "type_image": "https://freefiremobile-a.akamaihd.net/common/web_event/official/afb97f36baaeSCAR.png"
+    },
+    {
+      "type": "(Type-6)",
+      "type_name": "PISTOL",
+      "type_image": "https://freefiremobile-a.akamaihd.net/common/web_event/official/948390ab4181M500.png"
+    },
+    {
+      "type": "(Type-7)",
+      "type_name": "SG",
+      "type_image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/weapon/MAG7.png"
+    },
+    {
+      "type": "(Type-8)",
+      "type_name": "BOW",
+      "type_image": "https://freefiremobile-a.akamaihd.net/common/web_event/official/a5d78327e948Crossbow.png"
+    },
+    {
+      "type": "(Type-9)",
+      "type_name": "SR",
+      "type_image": "https://freefiremobile-a.akamaihd.net/common/web_event/official/4e2f1a7c5c6cKar98k.png"
+    },
+    {
+      "type": "(Type-10)",
+      "type_name": "PROJECTILES",
+      "type_image": "https://freefiremobile-a.akamaihd.net/common/web_event/official/9b729a817149Grenade.png"
+    },
+    {
+      "type": "(Type-11)",
+      "type_name": "MARKSMANRIFLE",
+      "type_image": "https://freefiremobile-a.akamaihd.net/common/web_event/official/a972c767cf13SVD.png"
+    }
+  ]
+}

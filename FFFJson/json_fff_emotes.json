@@ -1,0 +1,324 @@
+{
+  "Emotes": [
+    {
+      "name": "Hello!",
+      "image": "0.png",
+      "gif": "zero.gif"
+    },
+    {
+      "name": "Why? Oh Why?",
+      "image": "1.png",
+      "gif": "one.gif"
+    },
+    {
+      "name": "Triple Kicks",
+      "image": "2.png",
+      "gif": "two.gif"
+    },
+    {
+      "name": "Flowers of Love",
+      "image": "3.png",
+      "gif": "three.gif"
+    },
+    {
+      "name": "FFWC Throne",
+      "image": "4.png",
+      "gif": "four.gif"
+    },
+    {
+      "name": "Selfie",
+      "image": "5.png",
+      "gif": "five.gif"
+    },
+    {
+      "name": "Pirate's Flag",
+      "image": "6.png",
+      "gif": "six.gif"
+    },
+    {
+      "name": "Top DJ",
+      "image": "7.png",
+      "gif": "seven.gif"
+    },
+    {
+      "name": "Power of Money",
+      "image": "8.png",
+      "gif": "eight.gif"
+    },
+    {
+      "name": "Eat my dust",
+      "image": "9.png",
+      "gif": "nine.gif"
+    },
+    {
+      "name": "Kongfu",
+      "image": "10.png",
+      "gif": "ten.gif"
+    },
+    {
+      "name": "I heart you",
+      "image": "11.png",
+      "gif": "eleven.gif"
+    },
+    {
+      "name": "Tea Time",
+      "image": "12.png",
+      "gif": "twelve.gif"
+    },
+    {
+      "name": "Doggle",
+      "image": "13.png",
+      "gif": "thirteen.gif"
+    },
+    {
+      "name": "I,m Rich",
+      "image": "14.png",
+      "gif": "fourteen.gif"
+    },
+    {
+      "name": "Make it Rain!",
+      "image": "15.png",
+      "gif": "fifteen.gif"
+    },
+    {
+      "name": "Captain Booyah",
+      "image": "16.png",
+      "gif": "sixteen.gif"
+    },
+    {
+      "name": "Let's Go!",
+      "image": "17.png",
+      "gif": "seventeen.gif"
+    },
+    {
+      "name": "BOOYAH!",
+      "image": "18.png",
+      "gif": "eighteen.gif"
+    },
+    {
+      "name": "I'm Saitama!",
+      "image": "19.png",
+      "gif": "nineteen.gif"
+    },
+    {
+      "name": "Obliteration",
+      "image": "20.png",
+      "gif": "twenty.gif"
+    },
+    {
+      "name": "Top Scorer",
+      "image": "21.png",
+      "gif": "twenty_one.gif"
+    },
+    {
+      "name": "LOL",
+      "image": "22.png",
+      "gif": "twenty_two.gif"
+    },
+    {
+      "name": "Provoke",
+      "image": "23.png",
+      "gif": "twenty_three.gif"
+    },
+    {
+      "name": "Chicken",
+      "image": "24.png",
+      "gif": "twenty_four.gif"
+    },
+    {
+      "name": "Shoot Dance",
+      "image": "25.png",
+      "gif": "twenty_fire.gif"
+    },
+    {
+      "name": "Baby Shark",
+      "image": "26.png",
+      "gif": "twenty_six.gif"
+    },
+    {
+      "name": "Mummy Dance",
+      "image": "27.png",
+      "gif": "twenty_seven.gif"
+    },
+    {
+      "name": "Push-up",
+      "image": "28.png",
+      "gif": "twenty_eight.gif"
+    },
+    {
+      "name": "Shuffling",
+      "image": "29.png",
+      "gif": "twenty_nine.gif"
+    },
+    {
+      "name": "Dragon First",
+      "image": "30.png",
+      "gif": "thirty.gif"
+    },
+    {
+      "name": "Dangerous Game",
+      "image": "31.png",
+      "gif": "thirty_one.gif"
+    },
+    {
+      "name": "Jaguar Dance",
+      "image": "32.png",
+      "gif": "thirty_two.gif"
+    },
+    {
+      "name": "Threaten",
+      "image": "33.png",
+      "gif": "thirty_three.gif"
+    },
+    {
+      "name": "Shake With Me",
+      "image": "34.png",
+      "gif": "thirty_four.gif"
+    },
+    {
+      "name": "Devil's Move",
+      "image": "35.png",
+      "gif": "thirty_five.gif"
+    },
+    {
+      "name": "Furios Slam",
+      "image": "36.png",
+      "gif": "thirty_six.gif"
+    },
+    {
+      "name": "Moon Flip",
+      "image": "37.png",
+      "gif": "thirty_seven.gif"
+    },
+    {
+      "name": "Wiggle walk",
+      "image": "38.png",
+      "gif": "thirty_eight.gif"
+    },
+    {
+      "name": "Battle Dance",
+      "image": "39.png",
+      "gif": "thirty_nine.gif"
+    },
+    {
+      "name": "High Five",
+      "image": "40.png",
+      "gif": "forty.gif"
+    },
+    {
+      "name": "Shake it Up",
+      "image": "41.png",
+      "gif": "forty_one.gif"
+    },
+    {
+      "name": "Glorious Spin",
+      "image": "42.png",
+      "gif": "forty_two.gif"
+    },
+    {
+      "name": "Crane Kick",
+      "image": "43.png",
+      "gif": "forty_three.gif"
+    },
+    {
+      "name": "Party Dance",
+      "image": "44.png",
+      "gif": "forty_four.gif"
+    },
+    {
+      "name": "Jig Dance",
+      "image": "45.png",
+      "gif": "forty_five.gif"
+    },
+    {
+      "name": "Soul Shaking",
+      "image": "46.png",
+      "gif": "forty_six.gif"
+    },
+    {
+      "name": "Death Glare",
+      "image": "47.png",
+      "gif": "forty_seven.gif"
+    },
+    {
+      "name": "Break Dance",
+      "image": "48.png",
+      "gif": "forty_eight.gif"
+    },
+    {
+      "name": "Bon Appetit",
+      "image": "49.png",
+      "gif": "forty_nine.gif"
+    },
+    {
+      "name": "Aim, fire!",
+      "image": "50.png",
+      "gif": "fifty.gif"
+    },
+    {
+      "name": "The Swan",
+      "image": "51.png",
+      "gif": "fifty_one.gif"
+    },
+    {
+      "name": "Bring it on!",
+      "image": "52.png",
+      "gif": "fifty_two.gif"
+    },
+    {
+      "name": "Fancy hands",
+      "image": "53.png",
+      "gif": "fifty_three.gif"
+    },
+    {
+      "name": "Shimmy",
+      "image": "54.png",
+      "gif": "fifty_four.gif"
+    },
+    {
+      "name": "Challenge On!",
+      "image": "55.png",
+      "gif": "fifty_five.gif"
+    },
+    {
+      "name": "Lasso",
+      "image": "56.png",
+      "gif": "fifty_six.gif"
+    },
+    {
+      "name": "Dust Off",
+      "image": "57.png",
+      "gif": "fifty_seven.gif"
+    },
+    {
+      "name": "Piece of Cake",
+      "image": "58.png",
+      "gif": "fifty_eight.gif"
+    },
+    {
+      "name": "The Victor",
+      "image": "59.png",
+      "gif": "fifty_nine.gif"
+    },
+    {
+      "name": "Sii!",
+      "image": "60.png",
+      "gif": "sixty.gif"
+    },
+    {
+      "name": "Applause",
+      "image": "61.png",
+      "gif": "sixty_one.gif"
+    },
+    {
+      "name": "Dab",
+      "image": "62.png",
+      "gif": "sixty_two.gif"
+    },
+    {
+      "name": "Arm Wave",
+      "image": "63.png",
+      "gif": "sixty_three.gif"
+    }
+  ]
+}
