@@ -1,0 +1,284 @@
+{
+  "Emotes": [
+    {
+      "name": "Affirmative",
+      "image": "1.png",
+      "gif": "1.gif"
+    },
+    {
+      "name": "Air guitar",
+      "image": "2.png",
+      "gif": "2.gif"
+    },
+    {
+      "name": "Annoying",
+      "image": "3.png",
+      "gif": "3.gif"
+    },
+    {
+      "name": "Beast mode",
+      "image": "4.png",
+      "gif": "4.gif"
+    },
+    {
+      "name": "Beg",
+      "image": "5.png",
+      "gif": "5.gif"
+    },
+    {
+      "name": "Boast",
+      "image": "6.png",
+      "gif": "6.gif"
+    },
+    {
+      "name": "Boast 2",
+      "image": "7.png",
+      "gif": "7.gif"
+    },
+    {
+      "name": "Break dance",
+      "image": "8.png",
+      "gif": "8.gif"
+    },
+    {
+      "name": "Celebrate",
+      "image": "9.png",
+      "gif": "9.gif"
+    },
+    {
+      "name": "Clap",
+      "image": "10.png",
+      "gif": "10.gif"
+    },
+    {
+      "name": "Clean up",
+      "image": "11.png",
+      "gif": "11.gif"
+    },
+    {
+      "name": "Come here",
+      "image": "12.png",
+      "gif": "12.gif"
+    },
+    {
+      "name": "Cower",
+      "image": "13.png",
+      "gif": "13.gif"
+    },
+    {
+      "name": "Cry",
+      "image": "14.png",
+      "gif": "14.gif"
+    },
+    {
+      "name": "Dance jixiewu",
+      "image": "15.png",
+      "gif": "15.gif"
+    },
+    {
+      "name": "Dance panama",
+      "image": "16.png",
+      "gif": "16.gif"
+    },
+    {
+      "name": "Dance shuaiquan",
+      "image": "17.png",
+      "gif": "17.gif"
+    },
+    {
+      "name": "Dance step",
+      "image": "18.png",
+      "gif": "18.gif"
+    },
+    {
+      "name": "Dance taishi",
+      "image": "19.png",
+      "gif": "19.gif"
+    },
+    {
+      "name": "Dance yaolan",
+      "image": "20.png",
+      "gif": "20.gif"
+    },
+    {
+      "name": "Deaths glare",
+      "image": "21.png",
+      "gif": "21.gif"
+    },
+    {
+      "name": "Dragonlee",
+      "image": "22.png",
+      "gif": "22.gif"
+    },
+    {
+      "name": "Draw",
+      "image": "23.png",
+      "gif": "23.gif"
+    },
+    {
+      "name": "Eat my dust",
+      "image": "24.png",
+      "gif": "24.gif"
+    },
+    {
+      "name": "Emotion 02",
+      "image": "25.png",
+      "gif": "25.gif"
+    },
+    {
+      "name": "Go",
+      "image": "26.png",
+      "gif": "26.gif"
+    },
+    {
+      "name": "Good to go",
+      "image": "27.png",
+      "gif": "27.gif"
+    },
+    {
+      "name": "Gracious bow",
+      "image": "28.png",
+      "gif": "28.gif"
+    },
+    {
+      "name": "Gun show",
+      "image": "29.png",
+      "gif": "29.gif"
+    },
+    {
+      "name": "Hello",
+      "image": "30.png",
+      "gif": "30.gif"
+    },
+    {
+      "name": "Impatient",
+      "image": "31.png",
+      "gif": "31.gif"
+    },
+    {
+      "name": "Jealous",
+      "image": "32.png",
+      "gif": "32.gif"
+    },
+    {
+      "name": "Jig dance",
+      "image": "33.png",
+      "gif": "33.gif"
+    },
+    {
+      "name": "Keep silent",
+      "image": "34.png",
+      "gif": "34.gif"
+    },
+    {
+      "name": "Kick",
+      "image": "35.png",
+      "gif": "35.gif"
+    },
+    {
+      "name": "Kong fu",
+      "image": "36.png",
+      "gif": "36.gif"
+    },
+    {
+      "name": "Kungfu bow",
+      "image": "37.png",
+      "gif": "37.gif"
+    },
+    {
+      "name": "Laugh",
+      "image": "38.png",
+      "gif": "38.gif"
+    },
+    {
+      "name": "Loosen up",
+      "image": "39.png",
+      "gif": "39.gif"
+    },
+    {
+      "name": "Loyalty",
+      "image": "40.png",
+      "gif": "40.gif"
+    },
+    {
+      "name": "Negative",
+      "image": "41.png",
+      "gif": "41.gif"
+    },
+    {
+      "name": "Not entertained",
+      "image": "42.png",
+      "gif": "42.gif"
+    },
+    {
+      "name": "Pirates flag",
+      "image": "43.png",
+      "gif": "43.gif"
+    },
+    {
+      "name": "Pocket money",
+      "image": "44.png",
+      "gif": "44.gif"
+    },
+    {
+      "name": "Power of money",
+      "image": "45.png",
+      "gif": "45.gif"
+    },
+    {
+      "name": "Provoke",
+      "image": "46.png",
+      "gif": "46.gif"
+    },
+    {
+      "name": "Pump it up",
+      "image": "47.png",
+      "gif": "47.gif"
+    },
+    {
+      "name": "Rage",
+      "image": "48.png",
+      "gif": "48.gif"
+    },
+    {
+      "name": "Rock star",
+      "image": "49.png",
+      "gif": "49.gif"
+    },
+    {
+      "name": "Run Run Run",
+      "image": "50.png",
+      "gif": "50.gif"
+    },
+    {
+      "name": "Seduction",
+      "image": "51.png",
+      "gif": "51.gif"
+    },
+    {
+      "name": "Selfie",
+      "image": "52.png",
+      "gif": "52.gif"
+    },
+    {
+      "name": "Surrender",
+      "image": "53.png",
+      "gif": "53.gif"
+    },
+    {
+      "name": "Tops dj",
+      "image": "54.png",
+      "gif": "54.gif"
+    },
+    {
+      "name": "Winner",
+      "image": "55.png",
+      "gif": "55.gif"
+    },
+    {
+      "name": "Zapped",
+      "image": "56.png",
+      "gif": "56.gif"
+    }
+  ]
+}
